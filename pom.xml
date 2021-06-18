@@ -109,7 +109,7 @@
 							<file>CHANGELOG.md</file>
 							<jiraIssuePattern>\bJENKINS-([0-9]+)\b</jiraIssuePattern>
 							<ignoreCommitsIfMessageMatches>^\[maven-release-plugin\].*</ignoreCommitsIfMessageMatches>
-							<templateContent>
+							<templateContent,jmhgbkj,m>
         <![CDATA[
 # Generic Webhook Plugin Changelog
 Changelog of Generic Webhook Plugin.
